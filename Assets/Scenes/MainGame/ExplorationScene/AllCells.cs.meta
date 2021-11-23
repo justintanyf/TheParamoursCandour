@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 884d90b8bcaf641b8b3c66bc8bf34b5c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - empty: {fileID: 11400000, guid: 9616c74971167449984e91f549d4a63c, type: 2}
+  - floorNothing: {fileID: 11400000, guid: 5b45de95c4f434d3abe6c3c6d5146997, type: 2}
+  - floorTestItem: {fileID: 11400000, guid: 818bf24a7ebc347969f087e1033b14b3, type: 2}
+  - floorTestFae: {fileID: 11400000, guid: ea7e22a42494449eb9fdcd27bf75f91f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

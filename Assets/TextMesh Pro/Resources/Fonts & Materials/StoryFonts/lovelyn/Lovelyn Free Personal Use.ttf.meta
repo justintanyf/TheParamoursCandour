@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ac2a2921b2f93bd4a9cd53890dc25d6d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lovelyn
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6747136adc9bf8146b9cd7a7d67e4b84, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

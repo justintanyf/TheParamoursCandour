@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa5eee8832d57904bbcfba19d3ef7988, type: 3}
+  m_Name: Caesura
+  m_EditorClassIdentifier: 
+  name: Caesura
+  icon: {fileID: 4409113622068996459, guid: 3b0603d9fb5fc46638e039850f095fb3, type: 3}
+  showInInventory: 0
+  battleSystem: {fileID: 0}
+  descriptionOfItem: Saiceres  for25

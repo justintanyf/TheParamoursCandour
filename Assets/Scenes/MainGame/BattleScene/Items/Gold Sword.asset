@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9208ed08ef27c4185a1c5ff91562011f, type: 3}
+  m_Name: Gold Sword
+  m_EditorClassIdentifier: 
+  name: Gold Sword
+  icon: {fileID: -7969836507740337112, guid: 3b0603d9fb5fc46638e039850f095fb3, type: 3}
+  showInInventory: 1
+  battleSystem: {fileID: 0}
+  descriptionOfItem: This is a gold sword
+  type: Gold
+  strength: 250
+  durability: 200
